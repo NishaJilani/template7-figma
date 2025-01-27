@@ -52,7 +52,7 @@ export default function Header() {
           />
         </a>
         <a href="#">
-          <Image src="/profil.png" alt="Profile Image" width={30} height={30} />
+          <Image src="/Profil.png" alt="Profile Image" width={30} height={30} />
         </a>
       </div>
     </div>
